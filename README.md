@@ -1,7 +1,7 @@
-# AWWOOF
+# Welcome To My Github
 
 Personal website and social hub.  
-Dark, glassy, animated design — built with pure HTML & CSS.
+built with pure HTML & CSS.
 
 ### 🌐 Live site
 👉 https://awwoof.github.io/
@@ -11,9 +11,4 @@ Dark, glassy, animated design — built with pure HTML & CSS.
 
 ### 📌 About
 This repository contains the source code for my personal website.  
-It links to my socials and shows a clean, minimal profile page.
-
-### ⚙️ Tech
-- HTML  
-- CSS (glassmorphism + animations)  
-- GitHub Pages for hosting
+It links to my socials.
